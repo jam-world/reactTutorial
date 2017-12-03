@@ -12,8 +12,14 @@
 * Teach react
   Welcome to classroom.
 * Preparation 
-  create the react boilerplate with creaet react app
+  - create the react boilerplate with creaet react app
   #+BEGIN_SRC sh
     create-react-app tutorial
   #+END_SRC
+  - install all the dependency
+    #+BEGIN_SRC sh
+      cd tutorial
+      npm install
+    #+END_SRC
+*  
 
